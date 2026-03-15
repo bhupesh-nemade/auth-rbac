@@ -49,13 +49,4 @@ npm install
 
 npm run dev
 
-## Default Users
 
-Admin  
-admin@mail.com
-
-Manager  
-manager@mail.com
-
-Employee  
-employee@mail.com
